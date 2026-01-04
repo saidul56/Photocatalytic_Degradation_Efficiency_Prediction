@@ -14,7 +14,7 @@ Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200
 ## 📌 Project Overview
 Photocatalytic degradation is a critical process for environmental remediation, particularly in wastewater treatment using nanomaterial-based photocatalysts. However, experimental evaluation of degradation efficiency is time-consuming and resource-intensive.
 This project applies **machine learning regression models** to **predict photocatalytic degradation efficiency** based on nanomaterial properties and experimental conditions. Multiple regression models were evaluated, and **XGBoost** was identified as the best-performing model.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/49e19fe0-a29a-411b-99f9-9eace647f9fa" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/49e19fe0-a29a-411b-99f9-9eace647f9fa" />
 
 
 ## 🎯 Objectives
