@@ -1,6 +1,9 @@
  # Title: Predicting Nanomaterial Assisted Photocatalytic Degradation Efficiency Using Machine Learning: A Comparative Study of Regression Models
 Machine learning–based prediction of nanomaterial-assisted photocatalytic degradation efficiency using comparative regression models, with XGBoost as the selected predictor
 
+## 🏅 Recognition ##
+Silver Award — 3rd UniV International Conference 2025 for Poster Presentation
+
 ## 👤 Author
 Saidul Islam
 MS Research Fellow
@@ -11,6 +14,8 @@ Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200
 ## 📌 Project Overview
 Photocatalytic degradation is a critical process for environmental remediation, particularly in wastewater treatment using nanomaterial-based photocatalysts. However, experimental evaluation of degradation efficiency is time-consuming and resource-intensive.
 This project applies **machine learning regression models** to **predict photocatalytic degradation efficiency** based on nanomaterial properties and experimental conditions. Multiple regression models were evaluated, and **XGBoost** was identified as the best-performing model.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/49e19fe0-a29a-411b-99f9-9eace647f9fa" />
+
 
 ## 🎯 Objectives
 * Predict photocatalytic degradation efficiency using ML
@@ -90,6 +95,7 @@ Therefore, XGBoost was selected as the **final predictive model**.
 * Wastewater treatment optimization
 * Environmental nanotechnology
 * Sustainable photocatalyst development
+  
 * AI-assisted materials science research
 
 
